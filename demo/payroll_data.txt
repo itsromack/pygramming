@@ -1,0 +1,11 @@
+Pay Date: 2023-11-08
+Name: PEDRO PENDUKO
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 400.00
+Gross Pay: PHP 80000.00
+Tax Deduction: PHP 11200.00
+PhilHealth Deduction: PHP 3200.00
+Pag-IBIG Deduction: PHP 1600.00
+SSS Deduction: PHP 3600.00
+Net Pay: PHP 60400.00
+==============================

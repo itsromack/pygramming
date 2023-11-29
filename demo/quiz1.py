@@ -9,13 +9,16 @@ ready = input("Are you ready to play the Quiz? (yes/no): ")
 score = 0
 total_questions = 3
 
+
 def say_correct():
     print("Correct! :)")
     print("...")
 
+
 def say_wrong():
     print("Wrong :(")
     print("...")
+
 
 if ready.lower() == "yes":
     answer = input("Question #1: What is your favorite programming language? ")

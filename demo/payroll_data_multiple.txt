@@ -1,0 +1,66 @@
+Pay Date: 2023-11-08
+Name: John Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 300.00
+Gross Pay: PHP 60000.00
+Tax Deduction: PHP 8400.00
+PhilHealth Deduction: PHP 2400.00
+Pag-IBIG Deduction: PHP 1200.00
+SSS Deduction: PHP 2700.00
+Net Pay: PHP 45300.00
+==============================
+Pay Date: 2023-11-08
+Name: Jane Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 400.00
+Gross Pay: PHP 80000.00
+Tax Deduction: PHP 11200.00
+PhilHealth Deduction: PHP 3200.00
+Pag-IBIG Deduction: PHP 1600.00
+SSS Deduction: PHP 3600.00
+Net Pay: PHP 60400.00
+==============================
+Pay Date: 2023-11-08
+Name: Jimmy Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 500.00
+Gross Pay: PHP 100000.00
+Tax Deduction: PHP 14000.00
+PhilHealth Deduction: PHP 4000.00
+Pag-IBIG Deduction: PHP 2000.00
+SSS Deduction: PHP 4500.00
+Net Pay: PHP 75500.00
+==============================
+Pay Date: 2023-11-01
+Name: John Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 300.00
+Gross Pay: PHP 60000.00
+Tax Deduction: PHP 8400.00
+PhilHealth Deduction: PHP 2400.00
+Pag-IBIG Deduction: PHP 1200.00
+SSS Deduction: PHP 2700.00
+Net Pay: PHP 45300.00
+==============================
+Pay Date: 2023-11-01
+Name: Jane Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 400.00
+Gross Pay: PHP 80000.00
+Tax Deduction: PHP 11200.00
+PhilHealth Deduction: PHP 3200.00
+Pag-IBIG Deduction: PHP 1600.00
+SSS Deduction: PHP 3600.00
+Net Pay: PHP 60400.00
+==============================
+Pay Date: 2023-11-01
+Name: Jimmy Doe
+Total Hours Worked: 200.0 hours
+Hourly Rate: PHP 500.00
+Gross Pay: PHP 100000.00
+Tax Deduction: PHP 14000.00
+PhilHealth Deduction: PHP 4000.00
+Pag-IBIG Deduction: PHP 2000.00
+SSS Deduction: PHP 4500.00
+Net Pay: PHP 75500.00
+==============================
