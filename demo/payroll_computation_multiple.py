@@ -1,7 +1,7 @@
 print("COMPANY NAME ABCXYZ PAYROLL PROGRAM")
 
 
-employees =
+employees = [
     {
         'name': 'John Doe',
         'rate': 300,
